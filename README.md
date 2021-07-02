@@ -8,3 +8,4 @@ Each of them is devoted to a specific topic related to Data Science.
 * lab3. Basics of working with the Pandas library.
 * lab4. Basics of working with the PyTorch library.
 * lab5. Gradient descent.
+* lab6. Neural network for regression problem. 
