@@ -12,3 +12,4 @@ Each of them is devoted to a specific topic related to Data Science.
 * lab7. Neural network for classification problem.
 * lab8. Classification of handwritten numbers by a fully connected neural network.
 * lab9. Recognition of handwritten numbers by a convolutional neural network.
+* lab10. Improving the convolutional neural network LeNet5. Batch Normalization.
