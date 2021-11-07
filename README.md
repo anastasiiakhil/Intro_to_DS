@@ -14,3 +14,4 @@ Each of them is devoted to a specific topic related to Data Science.
 * lab9. Recognition of handwritten numbers by a convolutional neural network.
 * lab10. Improving the convolutional neural network LeNet5. Batch Normalization.
 * lab11. Ways to build a model in PyTorch.
+* lab12. Transfer learning (part 1). Architectures Resnet18, Resnet20.
