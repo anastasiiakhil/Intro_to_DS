@@ -17,3 +17,4 @@ Each of them is devoted to a specific topic related to Data Science.
 * lab12. Transfer learning (part 1). Architectures Resnet18, Resnet20.
 * lab13. Google Net architecture. 
 * lab14. Transfer learning (part 2). Saving the model, loading the model, changing the loaded model.
+* lab15. Conditional random fields (CRF), Viterbi algorithm, Markov chains.
